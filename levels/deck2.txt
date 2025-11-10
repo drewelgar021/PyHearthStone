@@ -1,0 +1,1 @@
+20,0,1;R,R,W,W,0,S,H,W,R,W,R,W,R,W,R,0,W,W,R,R,S,W,R,R,H,R,0,W,R,R;R,R,W,W,0||20,0,0;R,R,W,W,0,S,H,W,R,W,R,W,R,W,R,0,W,W,R,R,S,W,R,R,H,R,0,W,R,R;R,R,W,W,0|
